@@ -205,5 +205,9 @@ nanoDQMIO_perLSoutput = cms.PSet(
     "JetMET/Jet/Cleanedak4PFJetsCHS/Pt",
     "JetMET/MET/pfMETT1/Cleaned/METSig",
     "JetMET/vertices",     
+    "/JetMET/HIJetValidation/akCs4PFJets/SumPFPt",
+    "/JetMET/HIJetValidation/akPu3PFJets/SumPFPt",
+    "/JetMET/HIJetValidation/akPu4CaloJets/SumPFPt",
+    "/JetMET/HIJetValidation/akPu4PFJets/SumPFPt"
   ) )
 )
